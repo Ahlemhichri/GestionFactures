@@ -13,6 +13,6 @@
     Les étapes D'installation:
     -composer install
     -php artisan key:generate
-    -creer la base de donnees : stars
-    -php artisan migrate --seed ou importer directement le fichier stars.sql 
+    -creer la base de donnees :factures
+    -php artisan migrate --seed 
     -php artisan serve
